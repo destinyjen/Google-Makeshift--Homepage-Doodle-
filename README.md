@@ -1,3 +1,3 @@
-This is a Coding Front-End (HTML/CSS) exercise of Google Makeshift Homepage 
-I named it Doodle 🤭
+This is a Google Makeshift Homepage. A Front-End (HTML/CSS) exercise.
+I named th page Doodle LOL 🤭
 # Google-Makeshift-Doodle-
